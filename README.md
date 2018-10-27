@@ -1,3 +1,3 @@
-# Building a Logistic Regression Classification Model from Scratch
+# Writing and Visualising a Particle Swarm Optimizer
 
-Using just Javascript without any machine learning libraries to build a logistic regression model, and visualising the data generation, training and prediction process straight in the client/browser.
+Using Javascript to visualise how a particle swarm optimiser searches for the local minimum.
